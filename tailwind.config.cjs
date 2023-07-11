@@ -26,12 +26,20 @@ export default {
         three: '#A5C0A7',
         four: '#729C76'
       },
-      cream: {
-        one: '#FFFFFF'
-      },
-      leaf: {
-        one: '#E0E7A1'
-      }
+			cream: {
+				one: '#FFFFFF',
+				two: '#FEFEFB',
+				three: '#FDFCF7',
+				four: '#FCFBF4'
+			},
+			steel: {
+				one: '#FAFAFA',
+				two: '#F5F5F5',
+				three: '#737373'
+			},
+			leaf: {
+				one: '#E0E7A1'
+			}
     },
     extend: {
       fontFamily: {
