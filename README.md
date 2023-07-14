@@ -1,4 +1,4 @@
-# Run Yourself
+# Run It Yourself
 - Create a new director
 - Type `git init` in your terminal
 - Type `git pull https://github.com/Firesean/Svelte-introduction-checklist.git` in your terminal
